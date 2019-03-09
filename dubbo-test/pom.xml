@@ -33,6 +33,8 @@
         <module>dubbo-test-integration</module>
     </modules>
 
+	
+	
     <dependencyManagement>
         <dependencies>
             <dependency>
